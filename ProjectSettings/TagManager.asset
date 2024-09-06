@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - ball
   layers:
   - Default
   - TransparentFX
@@ -38,6 +39,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: bg
+    uniqueID: 3082209671
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: SFX
+    uniqueID: 1375381291
     locked: 0
