@@ -15,5 +15,5 @@ MonoBehaviour:
   Prefab: {fileID: 5944665781111794345, guid: c2b501ed3cdff4c4096641cd46496043, type: 3}
   Sprites:
   - {fileID: 21300000, guid: 50658276a9454a741bd44e07ec9f135c, type: 3}
-  Score: 0
+  Score: 10
   ParticleColor: {r: 0.9622642, g: 0.62892133, b: 0.34950158, a: 0}
